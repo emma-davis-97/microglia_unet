@@ -6,6 +6,7 @@ To set-up the conda environment to run these IPython notebooks, run the followin
 <br/>
 ## Annotating Images
 Crop images of microglia down to n x n (I usually use 384x384pxl images) and create a trimap mask similar to the following:
+<br/>
 ![mglia_0158](https://user-images.githubusercontent.com/59164303/230128021-254b9b70-80b9-4629-886f-21158ca1186c.png)
 ![mask_0158](https://user-images.githubusercontent.com/59164303/230127970-002540eb-3b63-44d8-91a0-820a60398f47.png)
 <br/>
